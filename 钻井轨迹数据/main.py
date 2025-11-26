@@ -1,5 +1,5 @@
 # 中国石化人工智能大赛：基于钻井轨迹数据识别造斜情况0.83535分的完整baseline代码分享
-# 比赛的网址
+# 比赛的网址数据
 # https://aicup.sinopec.com/competition/SINOPEC-02/
 
 # 背景介绍
